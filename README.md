@@ -3,3 +3,4 @@ Working with Git history,stashing and reverting commits
 This line was added remotely from GitHub.
 This is another local change to demonstrate rebase.
 Local edit 1
+Local edit 1
